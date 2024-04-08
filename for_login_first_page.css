@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(64, 159, 159);
+}
+.box{
+    height: 40%;
+    width: 90%;
+    border: 3px solid rgb(50, 161, 171);
+    border-radius: 5px;
+}
+.container{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+.text{
+    margin-left: 60px; 
+    margin-bottom: 100px;
+    margin-bottom: 20px;
+}
+span{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(50,161,171);
+    border-radius: 5px;
+    margin-left: 50px;
+    color: white;
+}

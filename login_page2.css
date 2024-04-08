@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+ .container1{ 
+    background-color:rgb(39, 158, 167); 
+    height: 80px;
+    display: flex;
+    color: white;
+}
+.notice{
+    margin-left: 650px;
+    margin-top: 30px;
+    border: 2px solid white;
+    height: 20px;
+    width: 15px;
+    border-radius: 4px;
+    background-color: white;
+
+}
+.signout{
+    margin-top: 30px;
+    margin-left: 10px;
+    border: 2px solid white;
+    height: 20px;
+    width: 18px;
+    border-radius: 4px;
+    background-color: red;
+}
+.container2{
+    background-color:white;
+    border: 1px solid white;
+    height: 523px;
+    width: 100%px;
+    display: flex;
+
+}
+.container3{
+    height: 124px;
+    background-color:rgb(39, 158, 167) ;
+    color: white;
+    display: flex;
+    justify-content: end;
+
+}
